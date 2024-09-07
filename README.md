@@ -1,2 +1,2 @@
 # Projects
-Projects during my time of being a student of Haaga-Helia.
+My student projects in Business Information Technology Bachelor of Business Administration (ITBBA). Student of Haaga-Helia, campus in Pasila.
